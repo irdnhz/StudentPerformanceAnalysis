@@ -1,5 +1,4 @@
 # Student Performance Analysis
-## Implementing Machine Learning in Analysis
 
 ## Overview
 This project analyzes student performance data with comprehensive data cleaning and feature engineering.
